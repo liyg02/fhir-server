@@ -17,6 +17,8 @@ namespace Microsoft.Health.Fhir.Core.Models
 
         public const string Device = "Device";
 
+        public const string DiagnosticReport = "DiagnosticReport";
+
         public const string DocumentReference = "DocumentReference";
 
         public const string DomainResource = "DomainResource";
@@ -24,6 +26,8 @@ namespace Microsoft.Health.Fhir.Core.Models
         public const string Encounter = "Encounter";
 
         public const string Group = "Group";
+
+        public const string Location = "Location";
 
         public const string Immunization = "Immunization";
 
